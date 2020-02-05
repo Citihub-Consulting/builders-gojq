@@ -2,5 +2,5 @@
 
 ## gojq
 
-About as simple as it gets. The `golang` base, plus `jq`!
+About as simple as it gets. The `golang` base, plus `jq`.
 
